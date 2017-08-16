@@ -2,7 +2,7 @@ This is a repo to show how to do a silent import of a notebook from another Jupy
 
 We're implementing the Monte Carlo algorithm to approximate the value of pi in a "dev" (ie. not very clean and with a number of code blocks that we don't want people to see) notebook [here](pi_approximation_computation.ipynb).
 
-We present the results in a clean notebook [here](Results Presentation.ipynb), where we focus on communcating the results and not on the code.
+We present the results in a clean notebook [here](results_presentation.ipynb), where we focus on communcating the results and not on the code.
 
 ## Requirements
 
